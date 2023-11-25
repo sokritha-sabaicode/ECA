@@ -1,0 +1,22 @@
+Project Ecommerce Phone Shop:
+- Sign up & Sign in
+- Search 
+- Listing Brands
+- Listing Carousel
+- Listing Discount Products (Special Offer)
+- Add to Cart 
+- Add to Favorite
+- Listing New Products (New Arrival)
+- Listing Products base on Category
+- Checkout
+- notification
+- Coupon
+
+What data that might exist in Ecommerce?
+- User: Name, Gmail, Phone Number, Address, Photo, DOB, Password
+        Favorite Products, Coupon, Order List, Cart (Product Id, Amount)
+
+- Product: Name, Price, Amount, images, category, brand, newArrival,
+           specialOffer,  ...
+- Coupon: Name, Date, Discount Type (%, dollar), Amount
+- Order: Order Id, Order Date, Amount, Status, User Id, Product Id

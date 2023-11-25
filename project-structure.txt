@@ -1,0 +1,16 @@
+middleware: where we store the local middleware and global middleware
+route: where we store the global routes/api
+service: where we store the function that perform business logic
+src: where we store each entity including: model, controllers, routes
+
+What is middleware?
+-> A function that execute between request and response
+
+What is model?
+-> A model is the semi structure of our data in DB and be able to integrate with our DB
+
+What is controllers?
+-> A controller is where we could access the request and produce the response
+
+
+ 
